@@ -1,5 +1,4 @@
 ## Transforms
-----
 
 ### **Images**
 
@@ -15,7 +14,6 @@ transform = transforms.Compose([
 
 
 ## Train / Validation Split
----
 
 ```python
 # obtain training indices that will be used for validation
