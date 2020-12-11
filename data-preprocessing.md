@@ -1,6 +1,6 @@
-## Transforms
+# Transforms
 
-### **Images**
+## Images
 
 ```python
 transform = transforms.Compose([
@@ -13,7 +13,7 @@ transform = transforms.Compose([
 
 
 
-## Train / Validation Split
+# Train / Validation Split
 
 ```python
 # obtain training indices that will be used for validation
